@@ -1,0 +1,20 @@
+.jumbotron {
+  color: white;
+  background-image: url("http://www.thinlizzy.org/gallery/unknown/images/Phil_Lynott_03.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+#hero-text {
+  color: red;
+  size: 50px;
+  font-weight: 850;
+}
+
+#hero-subtext{
+color: red;
+size: 30px;
+font-weight: 700;
+}
